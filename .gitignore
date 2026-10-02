@@ -1,0 +1,8 @@
+# Build outputs
+bits_demo
+*.o
+*.out
+
+# Editor / OS files
+.vscode/
+.DS_Store
